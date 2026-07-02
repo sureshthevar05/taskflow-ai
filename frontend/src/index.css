@@ -1,0 +1,3 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #fafaf9; }
+input:focus { border-color: #1a1a1a !important; }
