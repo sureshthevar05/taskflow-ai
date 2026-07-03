@@ -43,7 +43,7 @@ TaskFlow AI is a full-stack web application where users can manage tasks using p
 ---
 
 ## Project Structure
-
+```
 ai-task-manager/
 ├── core/                  # Django project config (settings, URLs)
 ├── tasks/                 # Tasks app
@@ -56,7 +56,7 @@ ai-task-manager/
 │       └── App.jsx        # Full frontend — welcome screen + main app
 ├── requirements.txt
 └── manage.py
-
+```
 ---
 
 ## API Endpoints
